@@ -1,0 +1,14 @@
+
+.container_header_background {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.header_text_centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: '#049ed1'
+}
